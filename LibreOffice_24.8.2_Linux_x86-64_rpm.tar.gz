@@ -1,0 +1,629 @@
+<!DOCTYPE html>
+    
+    
+    
+    
+    
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8" lang="en-US"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+    <head>
+        <!--<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">-->
+        <title>Donate to LibreOffice | LibreOffice - Free and private office suite - Based on OpenOffice - Compatible with Microsoft</title>
+        <meta name="generator" content="SilverStripe - http://silverstripe.org" />
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name="description" content="Donate, donation, donations, funding, help, support, LibreOffice" />
+<meta http-equiv="Refresh" content="0; url=https://download.documentfoundation.org/libreoffice/stable/24.8.2/rpm/x86_64/LibreOffice_24.8.2_Linux_x86-64_rpm.tar.gz"/>
+        
+        <base href="https://www.libreoffice.org/"><!--[if lte IE 6]></base><![endif]-->
+        <meta name="flattr:id" content="mr7ne2">
+        <meta name="twitter:dnt" content="on">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!--        <link href='//fonts.googleapis.com/css?family=Lato:100,300,400,700,900,300italic,400italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'> -->
+        <link rel="shortcut icon" href="/themes/libreofficenew/favicon.ico" />
+
+        <link href="/themes/libreofficenew/css/Lato2-new.css" rel='stylesheet' type='text/css' />
+        <link href="/themes/libreofficenew/css/LocalisationAvailableNotification.css" rel='stylesheet' type='text/css' />
+
+        
+        
+        
+        
+        
+        
+   <script src="themes/libreofficenew/js/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <link rel="stylesheet" type="text/css" href="/themes/libreofficenew/css/donate.css?m=1582135728" />
+<link rel="stylesheet" type="text/css" href="/themes/libreofficenew/css/jquery-ui.css?m=1508852654" />
+<link rel="stylesheet" type="text/css" href="/themes/libreofficenew/css/bootstrap.min.css?m=1396490701" />
+<link rel="stylesheet" type="text/css" href="/themes/libreofficenew/css/font-awesome.min.css?m=1389089681" />
+<link rel="stylesheet" type="text/css" href="/themes/libreofficenew/css/main.css?m=1603987327" />
+<link rel="stylesheet" type="text/css" href="/themes/libreofficenew/css/flexslider.css?m=1390320474" />
+<link rel="stylesheet" type="text/css" href="/themes/libreofficenew/css/LocalisationAvailableNotification.css?m=1581345458" />
+</head>
+    <body class="DonatePage no-sidebar" id="donate">
+
+        <!--[if lt IE 7]>
+        <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> or <a href="https://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+        <![endif]-->
+
+        <div class="navbar navbar-inverse navbar-fixed-top">
+
+
+<div class="localisation_available_notification">
+    <p>
+         <a href='//www.libreoffice.org'>English</a> | <a href='//zh-cn.libreoffice.org'>&#20013;&#25991; (&#31616;&#20307;)</a> | <a href='//de.libreoffice.org'>Deutsch</a> | <a href='//es.libreoffice.org'>Espa&#241;ol</a> | <a href='//fr.libreoffice.org'>Fran&#231;ais</a> | <a href='//it.libreoffice.org'>Italiano</a> |
+            <a href="//www.libreoffice.org/community/nlc">More...</a>
+    </p>
+</div>
+
+
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand img-responsive" href="/"><img style="width:230px; height:auto;" src="themes/libreofficenew/img/logo.png" alt="logo"></a>
+        </div>
+<div class="navbar-collapse collapse">
+<ul class="nav navbar-nav navbar-right">
+
+<li>
+
+<a href="/download/download-libreoffice/" class="link dropdown-toggle" data-toggle="dropdown">Download<b class="caret"></b></a>
+<ul class="dropdown-menu"><li><a href="/download/download-libreoffice/" class="link">Download LibreOffice</a></li><li><a href="/download/libreoffice-in-business/" class="link">Business users: click here</a></li><li><a href="/download/android-and-ios/" class="link">LibreOffice for Android and iOS</a></li><li><a href="/download/libreoffice-from-microsoft-and-mac-app-stores/" class="link">App Stores and Chromebooks</a></li><li><a href="/download/release-notes/" class="link">Release Notes</a></li><li><a href="/download/pre-releases/" class="link">Development versions</a></li><li><a href="/download/portable-versions/" class="link">Portable versions</a></li><li><a href="/download/flatpak/" class="link">LibreOffice as Flatpak</a></li><li><a href="/download/snap/" class="link">LibreOffice as Snap</a></li><li><a href="/download/appimage/" class="link">LibreOffice as AppImage</a></li><li><a href="/download/impress-remote-2/" class="link">LibreOffice Impress Remote</a></li><li><a href="/download/libreoffice-online/" class="link">LibreOffice Online</a></li></ul>
+
+</li>
+
+<li>
+
+<a href="/discover/libreoffice/" class="link dropdown-toggle" data-toggle="dropdown">Discover<b class="caret"></b></a>
+<ul class="dropdown-menu"><li><a href="/discover/libreoffice/" class="link">What is LibreOffice?</a></li><li><a href="/discover/libreoffice-vs-openoffice/" class="link">LibreOffice vs OpenOffice</a></li><li><a href="/discover/libreoffice-technology/" class="link">LibreOffice Technology</a></li><li><a href="/discover/new-features/" class="link">New Features</a></li><li><a href="/discover/writer/" class="link">Writer – word processor</a></li><li><a href="/discover/calc/" class="link">Calc – spreadsheet</a></li><li><a href="/discover/impress/" class="link">Impress – presentations</a></li><li><a href="/discover/draw/" class="link">Draw – diagrams</a></li><li><a href="/discover/base/" class="link">Base – database</a></li><li><a href="/discover/math/" class="link">Math – formula editor</a></li><li><a href="/discover/charts/" class="link">Charts</a></li><li><a href="/discover/what-is-opendocument/" class="link">What is OpenDocument?</a></li><li><a href="/discover/templates-and-extensions/" class="link">Templates &amp; Extensions</a></li><li><a href="/discover/who-uses-libreoffice/" class="link">Who uses LibreOffice?</a></li><li><a href="/discover/screenshots/" class="link">Screenshots</a></li></ul>
+
+</li>
+
+<li>
+
+<a href="/get-help/feedback/" class="link dropdown-toggle" data-toggle="dropdown">Get Help<b class="caret"></b></a>
+<ul class="dropdown-menu"><li><a href="/get-help/feedback/" class="link">Feedback</a></li><li><a href="/get-help/community-support/" class="link">Community Assistance</a></li><li><a href="https://documentation.libreoffice.org/en/english-documentation/" class="link">Documentation</a></li><li><a href="/get-help/install-howto/" class="link">Installation Instructions</a></li><li><a href="/get-help/professional-support/" class="link">Professional Support</a></li><li><a href="/get-help/system-requirements/" class="link">System Requirements</a></li><li><a href="/get-help/accessibility/" class="link">Accessibility</a></li><li><a href="/get-help/mailing-lists/" class="link">Mailing Lists</a></li><li><a href="/get-help/frequently-asked-questions/" class="link">Frequently Asked Questions</a></li></ul>
+
+</li>
+
+<li>
+
+<a href="/community/get-involved/" class="link dropdown-toggle" data-toggle="dropdown">Improve it<b class="caret"></b></a>
+<ul class="dropdown-menu"><li><a href="/community/get-involved/" class="link">Join us – start here!</a></li><li><a href="https://whatcanidoforlibreoffice.org" class="link">What can you do for LibreOffice?</a></li><li><a href="https://wiki.documentfoundation.org/Design" class="link">Design</a></li><li><a href="/community/developers/" class="link">Developers</a></li><li><a href="/community/docs-team/" class="link">Docs Team</a></li><li><a href="/community/infrastructure/" class="link">Infrastructure</a></li><li><a href="/community/localization/" class="link">Localization</a></li><li><a href="/community/marketing/" class="link">Marketing</a></li><li><a href="/community/nlc/" class="link">Native-Lang Projects</a></li><li><a href="/community/qa/" class="link">Testing - QA</a></li><li><a href="https://wiki.documentfoundation.org" class="link">Wiki</a></li><li><a href="/community/community-map/" class="link">Community map</a></li><li><a href="https://www.documentfoundation.org/foundation/grant-request/" class="link">Grant Request</a></li></ul>
+
+</li>
+
+<li>
+
+<a href="/events/" class="link">Events</a>
+
+</li>
+
+<li>
+
+<a href="/about-us/who-are-we/" class="link dropdown-toggle" data-toggle="dropdown">About Us<b class="caret"></b></a>
+<ul class="dropdown-menu"><li><a href="/about-us/who-are-we/" class="link">Who are we?</a></li><li><a href="/about-us/governance/" class="link">Governance</a></li><li><a href="https://www.documentfoundation.org/governance/advisory-board/" class="link">Advisory Board Members</a></li><li><a href="/about-us/certification/" class="link">LibreOffice Certification</a></li><li><a href="/about-us/licenses/" class="link">Licenses</a></li><li><a href="/about-us/source-code/" class="link">Source Code</a></li><li><a href="/about-us/security/" class="link">Security</a></li><li><a href="/about-us/imprint/" class="link">Imprint</a></li><li><a href="/about-us/credits/" class="link">Credits</a></li><li><a href="/about-us/libreoffice-timeline/" class="link">LibreOffice Timeline</a></li><li><a href="/about-us/privacy/" class="link">Privacy Policy</a></li><li><a href="https://www.documentfoundation.org/foundation/financials/" class="link">Foundation&#039;s Reports</a></li><li><a href="/about-us/merchandise/" class="link">Merchandise</a></li><li><a href="https://blog.documentfoundation.org" class="link">Read our blog</a></li></ul>
+
+</li>
+
+<li>
+
+<a href="/donate/" class="current">Donate</a>
+
+</li>
+
+<li><div class="search-bar">
+        <form id="SearchForm_SearchForm" class="navbar-form pull-right" action="/home/SearchForm" method="get" enctype="application/x-www-form-urlencoded">
+    <!-- <fieldset> -->
+        <!-- <div id="Search" class="field text nolabel"> -->
+            <!-- <div class="middleColumn"> -->
+                <input type="text" placeholder="Search" name="Search" value="" id="SearchForm_SearchForm_Search" />
+            <!-- </div> -->
+        <!-- </div> -->
+        <input type="submit" name="action_results" value="Go" class="action btn" id="SearchForm_SearchForm_action_results" />
+    <!-- </fieldset> -->
+</form>
+
+    </div></li>
+
+</ul>
+
+        </div>
+      </div>
+      </div>
+
+		 
+           
+<section id="content1" class="section">
+<div class="container">
+    <article>
+
+<div  class="DownloadsLeft row col-sm-8 margin-20">
+<p class="bs-callout">Your download <a href='//download.documentfoundation.org/libreoffice/stable/24.8.2/rpm/x86_64/LibreOffice_24.8.2_Linux_x86-64_rpm.tar.gz'>LibreOffice_24.8.2_Linux_x86-64_rpm.tar.gz (230 MB)</a> should begin shortly. Please click the link if it doesn't start.<br/>
+<small>You can also <a href='//download.documentfoundation.org/libreoffice/stable/24.8.2/rpm/x86_64/LibreOffice_24.8.2_Linux_x86-64_rpm.tar.gz.mirrorlist'>manually pick a mirror</a>. Or <a href='https://www.libreoffice.org/download/download/?lang=pick'>choose another language</a>.</small></p>
+
+<ul>
+    
+    <li><h2><a href="//download.documentfoundation.org/libreoffice/stable/24.8.2/rpm/x86_64/LibreOffice_24.8.2_Linux_x86-64_rpm_helppack_en-US.tar.gz">LibreOffice built-in help</a></h2>2.4 MB (<a href="//download.documentfoundation.org/libreoffice/stable/24.8.2/rpm/x86_64/LibreOffice_24.8.2_Linux_x86-64_rpm_helppack_en-US.tar.gz.torrent" title="Download the file using BitTorrent">Torrent</a>, <a href="//download.documentfoundation.org/libreoffice/stable/24.8.2/rpm/x86_64/LibreOffice_24.8.2_Linux_x86-64_rpm_helppack_en-US.tar.gz.mirrorlist" title="See the checksums and list of download mirrors for this file">Info</a>)</li>
+  </ul>
+   
+</div>
+<div class="DownloadsLeft col-sm-4" style="float:right; margin-right: 30px;">
+<p class="bs-callout bs-callout-danger">Having problems <strong>downloading</strong> LibreOffice? Note that we <strong>do not provide technical support</strong> for installing or using the software. If you need help, please visit <a href='https://ask.libreoffice.org/'>Ask LibreOffice</a>.<br /><br />But if your question is about <strong>downloading</strong> LibreOffice from our website, let us know: (1) Your operating system version; (2) Your web browser; (3) Error message(s) you see. Send these to <a href='mailto:download@libreoffice.org'>download@libreoffice.org</a> and we will try to help.</p></div>
+
+
+    <div class="row">
+    <div class="col-sm-8 margin-20">
+    <div class="row margin-20">
+        
+
+
+
+
+
+
+
+
+<h3>While you are downloading, please consider supporting LibreOffice with a donation</h3>
+<!-- DonationProceed form -->
+
+
+
+
+
+
+<form id="Form_DonationProceed" action="/donate/DonationProceed" method="post" enctype="application/x-www-form-urlencoded">
+
+	
+	<p id="Form_DonationProceed_error" class="message " style="display: none"></p>
+	
+
+	<fieldset>
+		
+		
+			<input type="hidden" name="subsite" value="0" class="hidden" id="Form_DonationProceed_subsite" />
+		
+			<input type="hidden" name="homeurl" value="https://www.libreoffice.org/donate/" class="hidden" id="Form_DonationProceed_homeurl" />
+		
+			<input type="hidden" name="language" value="en_US" class="hidden" id="Form_DonationProceed_language" />
+		
+			<input type="hidden" name="complus" value="en_US" class="hidden" id="Form_DonationProceed_complus" />
+		
+			<input type="hidden" name="piwikGoal" value="9" class="hidden" id="Form_DonationProceed_piwikGoal" />
+		
+			<input type="hidden" name="email" class="hidden nolabel" id="Form_DonationProceed_email" />
+		
+			<input type="submit" class="hidden" name="action_concardis" value="indirectly triggered via recaptcha" id="submittrigger">
+		
+			
+<div class="CompositeField field CompositeField composite nolabel ">
+	
+
+	
+		
+			<select name="frequency" class="dropdown donate_frequency nolabel" id="Form_DonationProceed_frequency">
+
+	<option value="oneshot" selected="selected">One-time donation</option>
+
+	<option value="monthly">Monthly donation</option>
+
+	<option value="quarterly">Quarterly donation</option>
+
+	<option value="yearly">Yearly donation</option>
+
+</select>
+		
+	
+		
+			<input type="text" name="customValue" value="19" class="numeric text donate_input nolabel" id="Form_DonationProceed_customValue" required="required" aria-required="true" maxLength="10" size="10" />
+		
+	
+		
+			<select name="currency" class="dropdown donate_currency nolabel" id="Form_DonationProceed_currency">
+
+	<option value="AED">AED (card only)</option>
+
+	<option value="ANG">ANG (card only)</option>
+
+	<option value="ARS">ARS (card only)</option>
+
+	<option value="AUD">AUD</option>
+
+	<option value="AWG">AWG (card only)</option>
+
+	<option value="AZN">AZN (card only)</option>
+
+	<option value="BGN">BGN (card only)</option>
+
+	<option value="BOB">BOB (card only)</option>
+
+	<option value="BRL">BRL (card only)</option>
+
+	<option value="CAD">CAD</option>
+
+	<option value="CHF">CHF</option>
+
+	<option value="CLP">CLP (card only)</option>
+
+	<option value="CNY">CNY (card only)</option>
+
+	<option value="COP">COP (card only)</option>
+
+	<option value="CZK">CZK</option>
+
+	<option value="DKK">DKK</option>
+
+	<option value="EGP">EGP (card only)</option>
+
+	<option value="EUR">EUR</option>
+
+	<option value="GBP">GBP</option>
+
+	<option value="HKD">HKD</option>
+
+	<option value="HUF">HUF</option>
+
+	<option value="IDR">IDR (card only)</option>
+
+	<option value="ILS">ILS</option>
+
+	<option value="INR">INR (card only)</option>
+
+	<option value="ISK">ISK (card only)</option>
+
+	<option value="JPY">JPY</option>
+
+	<option value="KES">KES (card only)</option>
+
+	<option value="KRW">KRW (card only)</option>
+
+	<option value="KZT">KZT (card only)</option>
+
+	<option value="LTL">LTL (card only)</option>
+
+	<option value="LVL">LVL (card only)</option>
+
+	<option value="MAD">MAD (card only)</option>
+
+	<option value="MDL">MDL (card only)</option>
+
+	<option value="MKD">MKD (card only)</option>
+
+	<option value="MXN">MXN</option>
+
+	<option value="MYR">MYR (card only)</option>
+
+	<option value="NOK">NOK</option>
+
+	<option value="NZD">NZD</option>
+
+	<option value="PEN">PEN (card only)</option>
+
+	<option value="PHP">PHP</option>
+
+	<option value="PLN">PLN</option>
+
+	<option value="PYG">PYG (card only)</option>
+
+	<option value="QAR">QAR (card only)</option>
+
+	<option value="RON">RON (card only)</option>
+
+	<option value="RSD">RSD (card only)</option>
+
+	<option value="RUB">RUB (card only)</option>
+
+	<option value="SAR">SAR (card only)</option>
+
+	<option value="SEK">SEK</option>
+
+	<option value="SGD">SGD</option>
+
+	<option value="SRD">SRD (card only)</option>
+
+	<option value="SYP">SYP (card only)</option>
+
+	<option value="THB">THB</option>
+
+	<option value="TRY">TRY (card only)</option>
+
+	<option value="TWD">TWD</option>
+
+	<option value="UAH">UAH (card only)</option>
+
+	<option value="USD" selected="selected">USD</option>
+
+	<option value="UYU">UYU (card only)</option>
+
+	<option value="VEF">VEF (card only)</option>
+
+	<option value="VER">VER (card only)</option>
+
+	<option value="ZAR">ZAR (card only)</option>
+
+</select>
+		
+	
+		
+			<input type="hidden" name="Amount" value="19" class="hidden" id="Form_DonationProceed_Amount" required="required" aria-required="true" />
+		
+	
+</div>
+
+
+
+
+		
+			<input type="hidden" name="SecurityID" value="118f44efbe97f2c679a61646f4397e617bfcfcd7" class="hidden" id="Form_DonationProceed_SecurityID" />
+		
+		<div class="clear"><!-- --></div>
+	</fieldset>
+
+	
+	<div class="Actions">
+		
+			<input type="submit" name="action_paypal" value="Donate via PayPal" class="action donate_submit" id="Form_DonationProceed_action_paypal" />
+		
+			<img onclick="(function(){jQuery('#Form_DonationProceed_action_paypal').click();})()" src="https://www.libreoffice.org/assets/Uploads/donate-paypal-logo.png" height="41" style="margin-top:-3px; margin-right: 20px;" />
+		
+			<i onclick="(function(){jQuery('#Form_DonationProceed_action_stripe').click();})()" class="fa fa-credit-card toggle" aria-hidden="true" style="font-size:36pt;margin-top:-4px; margin-left: 20px;"></i>
+		
+			<input type="submit" name="action_stripe" value="Donate via Credit Card" class="action donate_submit" id="Form_DonationProceed_action_stripe" />
+		
+			<div class="donate_intro_text">LibreOffice is Free Software and is made available free of charge. <br/>Your donation, which is purely optional, supports our worldwide community.<br/>If you like the software, please consider a donation.</div>
+		
+			<div class="donate_footer_text">Other ways to give: Flattr, bank transfer - click the boxes below<br/>Questions about your donation? <a href="mailto:info@documentfoundation.org">Send us an email</a><br/>During processing of your donation, your payment data will be transferred to a financial service provider. For further information, see our <a href="https://www.libreoffice.org/privacy">privacy policy</a>.</div>
+		
+	</div>
+	
+
+</form>
+
+
+<div id="donateaccordion">
+<h3>Click here for <strong>bank transfers</strong> (eg SEPA), and additional information for US residents</h3>
+<div id="banktransfer" class="well">
+<h4>You can transfer a donation to our bank account</h4>
+<p><strong>Owner</strong>: The Document Foundation<br/><strong>Purpose</strong>: Donation<br/><strong>Account</strong>: 29523932<br/><strong>Bank Code</strong>: 66190000<br/><strong>IBAN</strong>: DE36 6619 0000 0029 5239 32, BIC: GENODE61KA1<br/><strong>Address of recipient</strong>: The Document Foundation, Winterfeldtstra&szlig;e 52, 10781 Berlin, Germany<br/><strong>Address of bank</strong>: Volksbank pur eG, Ludwig-Erhard-Allee 1, 76131 Karlsruhe, Germany</p>
+<hr style="border-top:1px solid grey;" />
+<h4>LibreOffice is an SPI-associated project</h4>
+<p>You can also <a href="https://www.spi-inc.org/donations/">donate from the US</a> by mentioning "LibreOffice" with your donation. Note that donations through SPI can be deducted from US taxes. Checks: Please note that checks are expensive to cash in, so we kindly ask to use one of the other donation mechanisms provided.</p>
+</div>
+<h3>Click here for <strong>Liberapay</strong></h3>
+<div id="bitcoin" class="well">
+<h4>Donate via <a href='https://liberapay.com/TheDocumentFoundation/'>Liberapay</a></h4>
+</div>
+<h3>Click here for information about <strong>tax deductions</strong></h3>
+<p><strong>Donations to The Document Foundation are tax-deductible in several countries.<br/>Please refer to your local tax office for details.</strong><br/><strong>For residents of Germany:</strong> <em>"Für Spenden bis zu 300 € pro Jahr akzeptiert das Finanzamt den Kontoauszug als Spendenbescheinigung. Zusätzlich teilen Sie dem Finanzamt bitte mit, aufgrund welcher Bescheinigung und Steuernummer »The Document Foundation« als gemeinnützig anerkannt ist. <em>'Wir sind wegen Förderung von Wissenschaft und Forschung; der Volks- und Berufsbildung einschließlich der Studentenhilfe; des bürgerschaftlichen Engagements nach dem Freistellungsbescheid bzw. nach der Anlage zum Körperschaftsteuerbescheid des Finanzamtes Berlin StNr 27/641/01975, vom 13.11.2023 für den letzten Veranlagungszeitraum 2019-2021 nach § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes von der Körperschaftsteuer und nach § 3 Nr. 6 des Gewerbesteuergesetzes von der Gewerbesteuer befreit.'</em><br /><br />Einen vereinfachten Zuwendungsnachweis nach § 50 Abs. 2 Nr. 2 b EStDV können Sie <a href='https://www.libreoffice.org/assets/Uploads/German-Files/pdf/Zuwendungsnachweis.pdf'>hier herunterladen</a>. Damit sparen Sie uns Arbeit und Porto, welches stattdessen unserer Projektarbeit zugute kommen kann. Für Beträge über 300 €, oder falls Sie dennoch eine Spendenbescheinigung wünschen, senden uns bitte eine E-Mail an <a href='mailto:treasurer@documentfoundation.org'>treasurer@documentfoundation.org</a>"</em></p>
+    </div>
+<script type="text/javascript" src="/themes/libreofficenew/js/jquery-1.10.1.min.js?m=1388425220"></script><script type="text/javascript" src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script><script type="text/javascript" src="/themes/libreofficenew/js/bootstrap.min.js?m=1390226302"></script><script type="text/javascript" src="/themes/libreofficenew/js/jquery.flexslider.js?m=1389807992"></script><script type="text/javascript" src="/themes/libreofficenew/js/jquery.tablesorter.min.js?m=1400150227"></script><script type="text/javascript">//<![CDATA[
+function recaptchaerror() {jQuery("#Form_DonationProceed_action_concardis").hide(); } function submittheform() { jQuery("#submittrigger").click(); }
+
+//]]></script><script type="text/javascript">
+function showOneTimeForm() {
+    jQuery("div.CompositeField:not(.hidden) select.donate_frequency").attr("name", "frequency_disabled");
+    jQuery("div.CompositeField.hidden select.donate_frequency").attr("name", "frequency");
+    jQuery("div.CompositeField:not(.hidden) input.donate_input").attr("id", "Form_DonationProceed_customValue_disabled");
+    jQuery("div.CompositeField.hidden input.donate_input").attr("id", "Form_DonationProceed_customValue");
+    jQuery("div.CompositeField:not(.hidden) select.donate_currency").attr("id", "Form_DonationProceed_currency_disabled");
+    jQuery("div.CompositeField.hidden select.donate_currency").attr("id", "Form_DonationProceed_currency");
+    jQuery("div.CompositeField:not(.hidden) input.donate_input").attr("name", "customValue_disabled");
+    jQuery("div.CompositeField.hidden input.donate_input").attr("name", "customValue");
+    jQuery("div.CompositeField:not(.hidden) select.donate_currency").attr("name", "currency_disabled");
+    jQuery("div.CompositeField.hidden select.donate_currency").attr("name", "currency");
+    jQuery("div.CompositeField:not(.hidden) input[type='hidden']").attr("name", "Amount_disabled");
+    jQuery("div.CompositeField.hidden input[type='hidden']").attr("name", "Amount");
+    jQuery(".toggle").toggleClass("hidden");
+}
+(function($) {
+  $("#Form_DonationProceed_frequency").change(function() {
+        switch($("#Form_DonationProceed_frequency").val()) {
+            case "monthly": $("#Form_DonationProceed_customValue").val("5"); break;
+            case "quarterly": $("#Form_DonationProceed_customValue").val("15"); break;
+            case "yearly": $("#Form_DonationProceed_customValue").val("39"); break;
+        }
+    });
+
+  $("#donateaccordion").accordion({
+      collapsible: true,
+      heightStyle: "content",
+      active: false
+  });
+  $(".sidebaraccordion").accordion({
+      collapsible: true,
+      heightStyle: "content",
+      active: false
+  });
+})(jQuery);
+</script>
+
+</div>
+<div class="row margin-20">
+<h3>or you may also want to donate your time</h3>
+    <div style="border: 2px solid #babdb7; padding: 10px; text-align: center; margin-bottom: 1em; font-family:'Lato',sans-serif;">
+        <div class="donate_intro_text">Please visit our dedicated site to learn <a href='https://whatcanidoforlibreoffice.org/'>what you can do for LibreOffice</a>.<br/>You'll discover how much fun you may have with us!</div>
+    </div>
+</div>
+</div>
+    <div class="col-sm-4 margin-20">
+        
+
+        <p><strong>How your donations helped us in 2023:</strong></p><p><a href="assets/Uploads/donate-infographic-large-2023.png" target="_blank"><img style="display: block; margin-left: auto; margin-right: auto;" title="" src="assets/Uploads/donate-infographic-small-2023.png" alt="" width="200"></a><a></a></p><div class="sidebaraccordion" style="margin-top: 0px;">
+<h3>We're a volunteer-driven non-profit organisation<span style="font-size: 12px;"><br></span></h3>
+<p>The Document Foundation is a <a href="https://en.wikipedia.org/wiki/Foundation_%28non-profit%29#Germany">charitable foundation under German law ("Stiftung")</a>. Its objective, as defined in <a href="https://www.documentfoundation.org/statutes.pdf">the statutes</a>, is the promotion and development of office software available for use by anyone free of charge. The foundation promotes a sustainable, independent and meritocratic community for the international development of free and open source software based on open standards.<br><br> We are driven by thousands of contributors worldwide and provide the best free office suite, LibreOffice, which is available in over 110 languages for any major platform. Our values are openness, transparency and meritocracy. By using these as our guiding principles, we have made our <a href="https://www.documentfoundation.org/foundation/financials/">financials and budgets</a> public. To learn more about what we do, see our <a href="about-us/foundations-reports/">annual report</a>.</p>
+<h3>Your support is vital to keep LibreOffice improving</h3>
+<p>TDF is only possible due to the generous support from all around the world. Exciting new projects, activities and events put forward need financial backing, in order to provide server capacities required by the community, give travel assistance to volunteers and ensure the administration of the foundation is taken care of.</p>
+</div>
+
+        <aside>
+	
+</aside>
+
+    </div>
+    </div>
+    </article>
+</div>
+</section>
+<script src="https://checkout.stripe.com/checkout.js"></script>
+<script type="text/javascript">
+var handler = StripeCheckout.configure({
+  key: 'pk_live_awU8f7I5z9qGzhA6AEtRMjGJ',
+  image: 'https://www.libreoffice.org/themes/libreofficenew/img/lopaperclip.png',
+  locale: 'auto',
+  token: function(token) {
+    jQuery("#Form_DonationProceed_email").val(token.email);
+    jQuery('#Form_DonationProceed_action_stripe').val(token.id).click();
+  }
+});
+var nodecimals = ['CLP', 'JPY', 'KRW', 'PYG'];    
+function showstripeform() {
+  
+setTimeout(function() {
+  handler.open({
+    name: 'Donation',
+    description: 'Donation to The Document Foundation',
+    zipCode: true,
+    panelLabel: "Donate {{amount}}",
+    allowRememberMe: false,
+    currency: jQuery("#Form_DonationProceed_currency").val(),
+    amount: Math.floor(jQuery("#Form_DonationProceed_customValue").val()*(nodecimals.indexOf(jQuery("#Form_DonationProceed_currency").val()) > -1 ? 1 : 100))
+  });
+  }, 100);
+}
+// Close Checkout on page navigation:
+window.addEventListener('popstate', function() {
+  handler.close();
+});
+  var _paq = _paq || [];
+  _paq.push(['setCustomDimension', 1, 'dropdown_reversed_icons']);
+  _paq.push(['setCustomDimension', 2, '19']);
+</script>
+
+
+	
+            
+ <!-- Section Social-->
+ <section id="social">
+      <div class="container">
+
+      <!-- Row -->
+      <div class="row">
+          <div class="col-sm-12 text-center dark-gray">
+
+        <div class="margin-20">
+        <h3>Follow Us</h3>
+        </div>
+ <!--Social links-->
+            <ul class="social-icons">
+            <li><a class="btn btn-libre_office_green" href="https://blog.documentfoundation.org" target="_blank"><i class="fa fa-comment fa-2x"></i> Our blog</a></li>
+            <li><a rel="me" class="btn btn-libre_office_green" href="https://fosstodon.org/@libreoffice" target="_blank"><i class="fa fa-comments fa-2x"></i> Mastodon</a></li>
+            <li><a class="btn btn-libre_office_green" href="https://twitter.com/tdforg" target="_blank" rel="noopener noreferrer"><i class="fa fa-twitter fa-2x"></i>@tdforg</a></li>
+            <li><a class="btn btn-libre_office_green" href="https://twitter.com/libreoffice" target="_blank" rel="noopener noreferrer"><i class="fa fa-twitter fa-2x"></i>@libreoffice</a></li>
+            <li><a class="btn btn-libre_office_green" href="https://www.facebook.com/libreoffice.org" target="_blank" rel="noopener noreferrer"><i class="fa fa-facebook fa-2x"></i></a></li>
+            <li><a class="btn btn-libre_office_green" href="//www.youtube.com/channel/UCQAClQkZEm2rkWvU5bvCAXQ" target="_blank" rel="noopener noreferrer"><i class="fa fa-youtube-play fa-2x"></i></a></li>
+            <li><a class="btn btn-libre_office_green" href="https://twitter.com/AskLibreOffice" target="_blank" rel="noopener noreferrer"><i class="fa fa-twitter fa-2x"></i>@AskLibreOffice</a>
+            <li><a class="btn btn-libre_office_green" href="https://twitter.com/LibreOfficeBugs" target="_blank" rel="noopener noreferrer"><i class="fa fa-twitter fa-2x"></i>@LibreOfficeBugs</a></li>
+            
+            <li><a class="btn btn-libre_office_green" href="https://www.reddit.com/r/libreoffice" target="_blank" rel="noopener noreferrer"><img src="themes/libreofficenew/img/reddit.png" width="34" alt="Reddit" /></a></li>
+			</ul>
+            <!-- end Social links-->
+          </div>
+          </div>
+          <!-- End Row -->
+          </div>
+          </section>
+          <!-- end Section Social-->
+
+
+
+    
+    <!--Footer -->
+    
+    <section id="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 text-center">
+            <p><a href="https://www.libreoffice.org/imprint" target="_blank">Impressum (Legal Info)</a> | <a href="https://www.libreoffice.org/privacy" target="_blank">Datenschutzerklärung (Privacy Policy)</a> | <a href="https://www.documentfoundation.org/statutes.pdf" target="_blank">Statutes (non-binding English translation)</a> - <a href="https://www.documentfoundation.org/satzung.pdf" target="_blank">Satzung (binding German version)</a> | Copyright information: Unless otherwise specified, all text and images on this website are licensed under the <a href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="noopener noreferrer">Creative Commons Attribution-Share Alike 3.0 License</a>. This does not include the source code of LibreOffice, which is licensed under the <a href="https://www.libreoffice.org/download/license/" target="_blank">Mozilla Public License v2.0</a>. “LibreOffice” and “The Document Foundation” are registered trademarks of their corresponding registered owners or are in actual use as trademarks in one or more countries. Their respective logos and icons are also subject to international copyright laws. Use thereof is explained in our <a href="https://wiki.documentfoundation.org/TradeMark_Policy" target="_blank">trademark policy</a>. LibreOffice was based on OpenOffice.org.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+<!-- Start Piwik Code -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+
+  _paq.push(["disableCookies"]);
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://piwik.documentfoundation.org/";
+    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+    _paq.push(["setSiteId", "2"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+    g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+    
+    
+    var classes = [".swap", ".swap-developer", ".swap-migration", ".swap-training"];
+    for (var classIndex = 0; classIndex < classes.length; classIndex++) {
+        var swapable = document.querySelectorAll(classes[classIndex]);
+        var random = [];
+        for (var i = 0;i < swapable.length; i++) {
+            swapable[i].setAttribute('sortKey', Math.random());
+            random[i] = swapable[i].cloneNode(true);
+        }
+        random.sort(function(a,b) { return a.getAttribute('sortKey') - b.getAttribute('sortKey'); });
+        
+        for (var i = 0;i < swapable.length; i++) {
+            swapable[i].parentNode.replaceChild(random[i], swapable[i]);
+        }
+    }
+    var ul = document.querySelector('ul.shuffle');
+    for (var i = ul.children.length; i >= 0; i--) {
+             ul.appendChild(ul.children[Math.random() * i | 0]);
+             }
+  })();
+</script><!-- let's see how many visitors have js disabled -->
+<noscript><img src="https://piwik.documentfoundation.org/piwik.php?idsite=2&amp;rec=1&action_name=nojs" style="border:0" alt="" /></noscript>
+<!-- End Piwik Code -->
+
+
+
+<script type="text/javascript">
+      !function ($) {
+        $(function(){
+          $('#header').carousel()
+        })
+      }(window.jQuery)
+    
+$(window).load(function() {
+
+  $('.flexslider').flexslider({
+    animation: "slide"
+  });
+});
+$(document).ready(function()
+  {
+     $('.tablesorter').each(function() {
+       $(this).tablesorter();
+     });
+  }
+);
+jQuery('#gotoplainhome').click(function(){
+                                jQuery("#jumppage, #blurme").removeClass("enabled");
+                                return false;//Some code
+                                });
+
+</script>
+
+    </body>
+<!-- 0 -->
+</html>
